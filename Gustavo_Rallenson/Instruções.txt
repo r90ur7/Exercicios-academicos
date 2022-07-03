@@ -1,9 +1,0 @@
-Crie uma aplicação python que possa gerar um banco de dados em Sqlite3 com o nome de ‘moleza.sqlite’ e um CRUD em uma tabela com o nome de ‘pessoas’ com os seguintes campos abaixo:
-
-Campo  Tipo de dados
-
-id     Chave primária
-
-nome       texto
-
-cpf      caracter (11)
