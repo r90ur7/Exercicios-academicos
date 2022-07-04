@@ -1,2 +1,2 @@
 # Exerc-cios-academicos
-exercícios feitos para desenvolvimento acadêmico.
+exercícios feitos em meu desenvolvimento acadêmico.
