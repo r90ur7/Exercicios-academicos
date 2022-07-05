@@ -1,2 +1,2 @@
-# Exerc-cios-academicos
+# Exercicios-academicos
 exercícios feitos em meu desenvolvimento acadêmico.
